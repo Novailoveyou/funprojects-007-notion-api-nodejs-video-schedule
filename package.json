@@ -1,0 +1,17 @@
+{
+  "name": "007-notion-api-nodejs-video-schedule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^0.1.7",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
